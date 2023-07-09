@@ -5,4 +5,4 @@ Otus C++ cours repo
 # Nothing to mention yet
 
 # learning C++
-# creating a first appb
+# creating a first app
